@@ -1,0 +1,28 @@
+name: Bayley McDaniel
+favicon: null
+layout_spectrum: 0.22274085227400064
+typography_spectrum: 0.09614486410282552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.29188499599695206
+  lightness: 0.4446704259607941
+  saturation: 0.23468507849611342
+  rhythmicContrast: 0.4059115450363606
+purpose: []
